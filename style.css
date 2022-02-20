@@ -16,7 +16,8 @@
     --light-yellow-outlined: #d2ab21;
     --light-blue-outlined: #3498db;
     --light-green-outlined: #2ecc71;
-
+    --wrong-red: #ef4444;
+    --right-green: #84cc16;
 }
 
 *{
