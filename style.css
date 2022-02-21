@@ -16,7 +16,6 @@
     --light-yellow-outlined: #d2ab21;
     --light-blue-outlined: #3498db;
     --light-green-outlined: #2ecc71;
-
 }
 
 *{
@@ -252,7 +251,6 @@ body{
 
 .quiz-image{
     width: 100%;
-    
 }
 
 footer{
