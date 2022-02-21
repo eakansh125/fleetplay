@@ -15,7 +15,7 @@
 .category-card{
     width: 15.625rem;
     height: 26.25rem;
-    border: 1px solid var(--secondary-grey);
+    border: 1px solid var(--primary-maroon);
     display: flex;
     flex-direction: column;
     align-items: center;
