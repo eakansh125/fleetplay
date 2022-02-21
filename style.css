@@ -115,7 +115,6 @@ body{
     position: sticky;
     top: 0;
     height: auto;
-    /* box-shadow: inset 0px -1px 1px #e7ebf0; */
     background-color: rgba(255,255,255,0.72);
     backdrop-filter: blur(20px);
     z-index: 5;
@@ -253,7 +252,6 @@ body{
 
 .quiz-image{
     width: 100%;
-    
 }
 
 footer{

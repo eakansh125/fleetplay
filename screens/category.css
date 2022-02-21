@@ -13,9 +13,9 @@
 }
 
 .category-card{
-    width: 250px;
-    height: 420px;
-    border: 1px solid var(--secondary-grey);
+    width: 15.625rem;
+    height: 26.25rem;
+    border: 1px solid var(--primary-maroon);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -23,7 +23,7 @@
 
 .category-img{
     width: 100%;
-    height: 220px;
+    height: 13.75rem;
     object-fit: cover;
 }
 
