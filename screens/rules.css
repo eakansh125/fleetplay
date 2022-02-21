@@ -1,0 +1,23 @@
+
+.rules-container{
+    height: 80vh;
+    width: 90%;
+    padding: 1rem;
+    border: 1px solid var(--secondary-grey);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rules-item{
+    width: 80%;
+}
+
+.rules-header{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
